@@ -1,0 +1,90 @@
+{
+  "id": "published-published-1761765348069-0-6",
+  "name": "Banking Fraud Detection & Alert",
+  "description": "AI-powered fraud detection with real-time alerts",
+  "industry": "Finance",
+  "pattern": "Multi-Agent",
+  "complexity": "Intermediate",
+  "tags": [
+    {
+      "name": "banking"
+    },
+    {
+      "name": "fraud"
+    },
+    {
+      "name": "detection"
+    },
+    {
+      "name": "security"
+    },
+    {
+      "name": "risk"
+    },
+    {
+      "name": "alert"
+    }
+  ],
+  "steps": [
+    {
+      "id": "node_0",
+      "name": "Transaction Webhook",
+      "description": "Transaction Webhook"
+    },
+    {
+      "id": "node_1",
+      "name": "Parse Transaction",
+      "description": "Parse Transaction"
+    },
+    {
+      "id": "node_2",
+      "name": "AI Fraud Analyzer",
+      "description": "AI Fraud Analyzer"
+    },
+    {
+      "id": "node_3",
+      "name": "Risk Decision",
+      "description": "Risk Decision"
+    },
+    {
+      "id": "node_4",
+      "name": "Response",
+      "description": "Response"
+    },
+    {
+      "id": "sticky_overview_1761765364987",
+      "name": "Overview",
+      "description": "Overview"
+    },
+    {
+      "id": "sticky_meta_1761765364987",
+      "name": "Meta",
+      "description": "Meta"
+    }
+  ],
+  "publishedAt": "2025-10-30T12:36:13.707Z",
+  "destination": "launchpad",
+  "deployments": 48,
+  "lastDeployed": "2025-10-30T12:36:13.707Z",
+  "configuration": {
+    "provider": "azure",
+    "region": "eastus",
+    "compute": "cpu-optimized"
+  },
+  "healthStatus": "healthy",
+  "deploymentCount": 21,
+  "githubRepo": "https://github.com/agentbridge/banking-fraud-detection-&-alert",
+  "maintainer": "You",
+  "downloads": 416,
+  "rating": 4.561136253200221,
+  "createdAt": "2025-10-30T12:36:13.707Z",
+  "updatedAt": "2025-10-30T12:36:13.707Z",
+  "isPublished": true,
+  "isFeatured": false,
+  "deploymentMetadata": {
+    "publishedBy": "You",
+    "publishedAt": "2025-10-30T12:36:13.707Z",
+    "source": "Template Selection",
+    "version": "1.0.0"
+  }
+}
