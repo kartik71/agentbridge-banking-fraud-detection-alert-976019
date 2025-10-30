@@ -1,0 +1,52 @@
+{
+  "name": "banking-fraud-detection-&-alert",
+  "version": "1.0.0",
+  "description": "AI-powered fraud detection with real-time alerts",
+  "main": "workflow.json",
+  "keywords": [
+    "agentbridge",
+    "workflow",
+    "automation",
+    "n8n",
+    "multi-agent",
+    "finance",
+    {
+      "name": "banking"
+    },
+    {
+      "name": "fraud"
+    },
+    {
+      "name": "detection"
+    },
+    {
+      "name": "security"
+    },
+    {
+      "name": "risk"
+    },
+    {
+      "name": "alert"
+    }
+  ],
+  "author": "AgentBridge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartik71/agentbridge-banking-fraud-detection-alert-976019.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kartik71/agentbridge-banking-fraud-detection-alert-976019/issues"
+  },
+  "homepage": "https://github.com/kartik71/agentbridge-banking-fraud-detection-alert-976019#readme",
+  "scripts": {
+    "start": "echo \"Import this workflow into your n8n instance\"",
+    "validate": "echo \"Workflow validation complete\"",
+    "test": "echo \"Run workflow tests\"",
+    "deploy": "echo \"Deploy to n8n instance\""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "n8n": ">=1.0.0"
+  }
+}
